@@ -11,6 +11,9 @@ Default Tags    robotframework
 *** Test Cases ***
 MyFirstTest
     Log    Hello World...
+
+MySecondTest
+    Log    Deuxieme test    
     
 FirstSeleniumTest
     Open Browser    https://www.google.fr    firefox
